@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-21T23:55:05 IST" name="Default suite" finished-at="2024-01-21T23:55:05 IST" duration-ms="172">
+    <groups>
+    </groups>
+    <test started-at="2024-01-21T23:55:05 IST" name="Default test" finished-at="2024-01-21T23:55:05 IST" duration-ms="172">
+      <class name="dataProviderTest">
+        <test-method signature="testDataProvider(java.lang.String,java.lang.String)[pri:0, instance:dataProviderTest@6b8d96d9]" started-at="2024-01-21T23:55:05 IST" name="testDataProvider" data-provider="Organization" finished-at="2024-01-21T23:55:05 IST" duration-ms="16" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[EmpName]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Organization]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataProvider -->
+        <test-method signature="testDataProvider(java.lang.String,java.lang.String)[pri:0, instance:dataProviderTest@6b8d96d9]" started-at="2024-01-21T23:55:05 IST" name="testDataProvider" data-provider="Organization" finished-at="2024-01-21T23:55:05 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ashutosh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Capegemini]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataProvider -->
+        <test-method signature="testDataProvider(java.lang.String,java.lang.String)[pri:0, instance:dataProviderTest@6b8d96d9]" started-at="2024-01-21T23:55:05 IST" name="testDataProvider" data-provider="Organization" finished-at="2024-01-21T23:55:05 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Narendra]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Webkul]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataProvider -->
+        <test-method signature="testDataProvider(java.lang.String,java.lang.String)[pri:0, instance:dataProviderTest@6b8d96d9]" started-at="2024-01-21T23:55:05 IST" name="testDataProvider" data-provider="Organization" finished-at="2024-01-21T23:55:05 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nikhita]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Apple]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataProvider -->
+      </class> <!-- dataProviderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
